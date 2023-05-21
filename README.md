@@ -26,6 +26,8 @@ Balanceador: http://test-2078482868.us-east-1.elb.amazonaws.com
 Instancia A: http://ec2-54-197-66-46.compute-1.amazonaws.com/
 Instancia B: http://ec2-3-89-140-55.compute-1.amazonaws.com/
 
+angelo_developer@hotmail.com
+
 ;
 
 
